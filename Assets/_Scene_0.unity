@@ -318,10 +318,11 @@ MonoBehaviour:
   uitButton: {fileID: 962132492}
   castlePos: {x: 50, y: -9.5, z: 0}
   castles:
-  - {fileID: 1491326858099524, guid: dfe674b10c951e2448e37431c0fb78f5, type: 3}
+  - {fileID: 4947536849246980541, guid: d1e81dfc85b064548b26a842b132a244, type: 3}
   - {fileID: 1491326858099524, guid: dcc145d89b2c1354e968821b352f1356, type: 3}
   - {fileID: 1491326858099524, guid: cd23b2e546e2c8640932b9e54925e3bc, type: 3}
   - {fileID: 1491326858099524, guid: 345b1805aa47ca8429d977304dc6c43f, type: 3}
+  - {fileID: 1491326858099524, guid: dfe674b10c951e2448e37431c0fb78f5, type: 3}
   level: 0
   levelMax: 0
   shotsTaken: 0
